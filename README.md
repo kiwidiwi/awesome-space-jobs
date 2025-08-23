@@ -5,7 +5,7 @@ A curated directory of resources for careers in the **European space industry**:
 ---
 
 ## 🚀 Central Job Resource
-- [Find a Space Job](https://findaspacejob.com) – Job opportunities across the European space industry: agencies, startups, and research institutions.  
+- [Find a Space Job](https://www.findaspacejob.com) – Job opportunities across the European space industry: agencies, startups, and research institutions.  
 - [Subscribe to the Newsletter](https://findaspacejob.beehiiv.com/subscribe) – Weekly updates on new space jobs and industry insights.  
 
 ---
